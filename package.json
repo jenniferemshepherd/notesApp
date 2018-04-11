@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jenniferemshepherd/notesApp#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "jasmine": "^3.1.0"
   }
 }
